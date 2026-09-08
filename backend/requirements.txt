@@ -1,0 +1,8 @@
+langchain
+langchain_google_genai
+dotenv
+langchain_community
+pypdf
+fastapi
+uvicorn
+pydantic
